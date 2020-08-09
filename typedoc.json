@@ -1,7 +1,7 @@
 {
     "inputFiles": ["./src"],
     "tsconfig": "./src/tsconfig.json",
-    "name": "--name-full--",
+    "name": "Bundlephobia",
     "mode": "library",
     "out": "docs"
 }

@@ -25,7 +25,7 @@ export default {
 		{
 			file: './dist/index.umd.js',
 			format: 'umd',
-			name: '--name-umd--',
+			name: 'Bundlephobia',
 			sourcemap: true
 		}
 	],
